@@ -2,7 +2,7 @@
   <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Montserrat&size=25&pause=1000&color=00F706&center=true&vCenter=true&repeat=false&width=640&height=30&lines=Rayan+Marcel" alt="Typing SVG" /></a>
 </p>
 <p align="center">
-  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Montserrat&size=22&pause=1000&color=00F706&center=true&vCenter=true&width=640&height=70&lines=Full-stack+web+developer;Passionate+about+developing+with+Python%2FDjango;2%2B+years+of+web+development+experience;Always+looking+for+continuous+learning." alt="Typing SVG" /></a></p>
+  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Montserrat&size=22&pause=1000&color=00F706&center=true&vCenter=true&width=640&height=70&lines=Back-End+Engineer;Passionate+about+developing+with+Python%2FDjango;2%2B+years+of+web+development+experience;Always+looking+for+continuous+learning." alt="Typing SVG" /></a></p>
     
 ### Languages FrontEnd:
 ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
