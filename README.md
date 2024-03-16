@@ -51,5 +51,5 @@
 | 1   | Bachelor’s degree      | Technology in Agribusiness             | 3 Years     | ✅  | 2018-2020     | 
 | 2   | Graduate school        | Strategic Management                   | 1 Year      | ✅  | 2020-2020     |
 | 3   | Bachelor’s degree      | Agronomic Engineering                  | 5 Years     | ⏳   | 2020-2024     |
-| 4   | Graduate school        | Software Engineering                   | 1 Year      | ⏳   | 2023-2023     |
-| 5   | Graduate school        | DataScience                            | 1 Year      | ⏳   | 2023-2023     |
+| 4   | Graduate school        | Software Engineering                   | 1 Year      | ✅   | 2023-2023     |
+| 5   | Graduate school        | DataScience                            | 1 Year      | ✅   | 2023-2023     |
