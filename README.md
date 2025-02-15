@@ -1,5 +1,5 @@
 <p align="center">
-  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Montserrat&size=25&pause=1000&color=00F706&center=true&vCenter=true&repeat=false&width=640&height=30&lines=Rayan+Marcel" alt="Typing SVG" /></a>
+  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Montserrat&size=25&pause=1000&color=00F706&center=true&vCenter=true&repeat=false&width=640&height=30&lines=Rayan+Cavalheiro" alt="Typing SVG" /></a>
 </p>
 <p align="center">
   <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Montserrat&size=22&pause=1000&color=00F706&center=true&vCenter=true&width=640&height=70&lines=Back-End+Engineer;Passionate+about+developing+with+Python%2FDjango;2%2B+years+of+web+development+experience;Always+looking+for+continuous+learning." alt="Typing SVG" /></a></p>
@@ -50,6 +50,6 @@
 | --- | ---------------------- | -------------------------------------- | ----------- | ---------- |-------------- |
 | 1   | Bachelor’s degree      | Technology in Agribusiness             | 3 Years     | ✅  | 2018-2020     | 
 | 2   | Graduate school        | Strategic Management                   | 1 Year      | ✅  | 2020-2020     |
-| 3   | Bachelor’s degree      | Agronomic Engineering                  | 5 Years     | ⏳   | 2020-2024     |
+| 3   | Bachelor’s degree      | Agronomic Engineering                  | 5 Years     | ✅   | 2020-2024     |
 | 4   | Graduate school        | Software Engineering                   | 1 Year      | ✅   | 2023-2023     |
 | 5   | Graduate school        | DataScience                            | 1 Year      | ✅   | 2023-2023     |
